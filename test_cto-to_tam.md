@@ -1,0 +1,11 @@
+# Инструкция по работе системой контроля версий
+
+## Firs state
+
+### Osnovnie commands
+
+* git init
+* git ststus
+* git add
+* git commit
+* git log
