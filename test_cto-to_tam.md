@@ -2,16 +2,26 @@
 
 ## Firs state
 
-### Osnovnie commands
+### не хватает креативности, поэтому я просто добавил изображения к названиям команд, как они работают. Своего рода тоже инструкция
 
 * git init
-* git ststus
+<image src="img/init.png" alt="Ответ от команды git init">
+
+* git stаtus
+<image src="img/status.png" alt="Ответ от команды git init">
 * git add
+<image src="img/add.png" alt="Ответ от команды git init">
 * git commit
+<image src="img/commit.png" alt="Ответ от команды git init">
 * git log
+<image src="img/log.png" alt="Ответ от команды git init">
 * git checkout
+<image src="img/checkout.png" alt="Ответ от команды git init">
 * git diff
+<image src="img/diff.png" alt="Ответ от команды git init">
 
 12312
+
 sdfsdf
+
 sdfw34
