@@ -25,3 +25,5 @@
 * git branch
 
 ![name png](img/2_005.gif)
+
+* git checkout branch_name
