@@ -24,4 +24,4 @@
 
 * git branch
 
-![name png](img/status.png)
+![name png](img/2_005.gif)
