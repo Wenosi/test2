@@ -20,8 +20,6 @@
 * git diff
 <image src="img/diff.png" alt="Ответ от команды git init">
 
-12312
+### Комманды второго семинара
 
-sdfsdf
-
-sdfw34
+* git branch
