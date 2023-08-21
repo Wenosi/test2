@@ -23,3 +23,5 @@
 ### Комманды второго семинара
 
 * git branch
+
+![name png](img/status.png)
