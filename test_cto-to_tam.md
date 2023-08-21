@@ -31,3 +31,5 @@
 * git checkout branch_name
 
 * git checkout branch_name
+
+Попытка создания конфликта
