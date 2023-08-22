@@ -9,7 +9,7 @@
 * git stаtus
 ![img/status.png](img/status.png)
 * git add
-![куда-то пропал, поэтому глазки](img/2_005.gif)
+![куда-то пропал, поэтому глазки](img/2_005.gif) скрин пропал на втором семинаре ))
 * git commit
 ![img/commit.png](img/commit.png)
 
