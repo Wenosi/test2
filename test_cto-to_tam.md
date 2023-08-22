@@ -27,10 +27,3 @@
 ![name png](img/2_005.gif)
 
 * git checkout branch_name
-
-* git checkout branch_name
-
-* git checkout branch_name
-
-Теперь делаю в мастере, чтоб был конфликт
-Попытка создания конфликта
