@@ -5,27 +5,28 @@
 ### Не хватает креативности, поэтому я просто добавил изображения к названиям команд, как они работают. Своего рода тоже инструкция
 
 * git init
-<image src="img/init.png" alt="Ответ от команды git init">
-
+![img/init.png](img/init.png)
 * git stаtus
-<image src="img/status.png" alt="Ответ от команды git init">
+![img/status.png](img/status.png)
 * git add
-<image src="img/add.png" alt="Ответ от команды git init">
+![куда-то пропал, поэтому глазки](img/2_005.gif)
 * git commit
-<image src="img/commit.png" alt="Ответ от команды git init">
+![img/commit.png](img/commit.png)
+
 * git log
-<image src="img/log.png" alt="Ответ от команды git init">
+![img/log.png](img/log.png)
 * git checkout
-<image src="img/checkout.png" alt="Ответ от команды git init">
+![img/checkout.png](img/checkout.png)
 * git diff
-<image src="img/diff.png" alt="Ответ от команды git init">
+![img/diff.png](img/diff.png)
 
 ### Комманды второго семинара
 
-* git branch
+* git branch - просмотр всех существующих веток
 
 ![name png](img/2_005.gif)
 
-* git checkout branch_name
+* git checkout branch_name - создан для того, чтоб переходить к другой ветке
+
 * git merge - служит для слияния двух веток, использование:
 переходим в ветку основную, и пишем git merge (название ветки которую нужно слить)
